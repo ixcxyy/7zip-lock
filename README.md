@@ -1,4 +1,9 @@
 # 7zip-lock
+Auf https://www.7-zip.org herunterladen
+
+![image](https://github.com/user-attachments/assets/78da0f08-7388-4fc8-9fd1-86150f4068ac)
+
+
 Verschlüsselung von Dateien mithilfe von 7Zip
 
 ![image](https://github.com/user-attachments/assets/da5d129c-6900-4f18-86a0-4e0faf104f91)
