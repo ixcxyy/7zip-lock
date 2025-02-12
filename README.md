@@ -4,6 +4,7 @@ Verschlüsselung von Dateien mithilfe von 7Zip
 ![image](https://github.com/user-attachments/assets/da5d129c-6900-4f18-86a0-4e0faf104f91)
 
 Rechts Klick
+
 ![image](https://github.com/user-attachments/assets/c91d10ba-e946-4dc0-a378-b7c92ee4e40c)
 
 Über 7-Zip drüberhovern 
