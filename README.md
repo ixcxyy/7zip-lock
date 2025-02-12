@@ -8,6 +8,7 @@ Rechts Klick
 ![image](https://github.com/user-attachments/assets/c91d10ba-e946-4dc0-a378-b7c92ee4e40c)
 
 Über 7-Zip drüberhovern 
+
 ![image](https://github.com/user-attachments/assets/851b1640-1afd-4791-80a6-1da2b0a6bc0a)
 
 Zu einem Archiv hinzufügen... auswählen
