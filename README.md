@@ -20,7 +20,9 @@ Zu einem Archiv hinzufügen... auswählen
 3. Passwort eingeben
 4. AES-256 statt ZipCrypto auswählen
 5. Ok klicken
+
 ![Screenshot 2025-02-12 200312](https://github.com/user-attachments/assets/f38fdc47-da55-440b-9e17-1327e2dd2e4c)
 
 Jetzt nur noch die Zip Variante als Anhang hochladen und fertig
+
 ![image](https://github.com/user-attachments/assets/94b641da-377e-4ddb-bd2a-d9dd5481263e)
