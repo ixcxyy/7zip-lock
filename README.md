@@ -12,6 +12,7 @@ Rechts Klick
 ![image](https://github.com/user-attachments/assets/851b1640-1afd-4791-80a6-1da2b0a6bc0a)
 
 Zu einem Archiv hinzufügen... auswählen
+
 ![image](https://github.com/user-attachments/assets/ca1fd04b-0898-40fb-a13a-e87a652d7b3c)
 
 1. Namen eingeben
